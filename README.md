@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&欢迎来到李俊超的主页&center=true&size=27" />
+  <div align="center">
+      <a href="https://www.damon-liu.cn/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=051318AA&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=32&lines=The+journey+of+a+thousand+miles+begins+with+a+single+step." alt="Typing SVG" />
     </a>
-  </div>
+  </div><br>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
